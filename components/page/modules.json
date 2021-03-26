@@ -1,4 +1,4 @@
-{
+  {
   "collectionName": "components_page_modules",
   "info": {
     "name": "modules",
@@ -10,7 +10,7 @@
       "type": "string",
       "required": true
     },
-    "sutitle": {
+    "subtitle": {
       "type": "string",
       "required": true
     },

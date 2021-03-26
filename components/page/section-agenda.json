@@ -1,8 +1,9 @@
 {
-  "collectionName": "components_page_sction_agends",
+  "collectionName": "components_page_section_agenda",
   "info": {
-    "name": "sctionAgends",
-    "icon": "calendar-alt"
+    "name": "sectionAgenda",
+    "icon": "calendar-alt",
+    "description": ""
   },
   "options": {},
   "attributes": {

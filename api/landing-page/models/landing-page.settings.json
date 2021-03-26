@@ -49,7 +49,7 @@
     "sectionAgenda": {
       "type": "component",
       "repeatable": false,
-      "component": "page.sction-agends"
+      "component": "page.section-agenda"
     },
     "pricingBox": {
       "type": "component",
